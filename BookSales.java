@@ -1,4 +1,3 @@
-package Book;
 public class BookSales {
     String salerName;
     int numberOfSales;
